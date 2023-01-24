@@ -28,6 +28,11 @@ El objetivo general de este proyecto es la realización y con diferentes herrami
 
 #Obetivos Especificos
 
+- Identificar el reconocimiento de voz para permitir a los usuarios dictar notas y mensajes de texto. La aplicación utilizaría una API de ChatGTP-3
+- El sistema utilizaría una API de reconocimiento de voz para transcribir la voz a texto y luego utilizar una IA para interpretar la pregunta y proporcionar una      respuesta adecuada.
+- La información que responda la IA será plasmada esa información de la LCD
+- Traducir el texto que el usario desee. 
+
 #Tabla de Software Utilizado y otros
 
 | ID | Software | Versión |  Tipo  |
