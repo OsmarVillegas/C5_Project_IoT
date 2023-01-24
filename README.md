@@ -22,11 +22,11 @@ Proyecto Cuatrimestre 5 IoT
 -	Leds	
 -	Extensión
 
-#Objetivo geeral
+# Objetivo geeral
 
-#Obetivos Especificos
+# Obetivos Especificos
 
-#Tabla de Software Utilizado y otros
+# Tabla de Software Utilizado y otros
 
 | ID | Software | Versión |  Tipo  |
 | ---|----------|---------|--------| 
