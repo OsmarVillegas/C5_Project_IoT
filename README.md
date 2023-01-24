@@ -41,15 +41,16 @@ Proyecto Cuatrimestre 5 IoT
 
 | ID |    Componente     |      Descripcion                    |             Imagen                 |   Cantidad  |  Costo Total  | 
 | ---|-------------------|-------------------------------------|------------------------------------|-------------|---------------|
-| 1  |Bocina y Microfono | Este módulo ISD1820 Módulo de       |
-                           Grabación y Reproducción de Voz 
-                           basado en el circuito integrado 
-                           ISD1820 permite la grabación y
-                           reproducción de un mensaje de voz de
-                           8 a 20 segundos de duración. 
-                           El modulo ISD1820 permite la 
-                           creación de un sistema de grabación 
-                           y reproducción de audio minimalista 
-                           que permite agregar mensajes simples 
-                           a cualquier dispositivo o proyecto 
-                           electrónico. 
+| 1  |Bocina y Microfono | Este módulo ISD1820 Módulo de       | 
+                         | Grabación y Reproducción de Voz     |                          
+                         | basado en el circuito integrado     |
+                         | ISD1820 permite la grabación y      |
+                         | reproducción de un mensaje de voz de|
+                         | 8 a 20 segundos de duración.        |
+                         | El modulo ISD1820 permite la        |
+                         | creación de un sistema de grabación |
+                         | y reproducción de audio minimalista |
+                         | que permite agregar mensajes simples|
+                         | a cualquier dispositivo o proyecto  |
+                         | electrónico.                        |
+------------------------------------------------------------------------------------------------------------------------------------
