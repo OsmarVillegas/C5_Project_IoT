@@ -39,12 +39,12 @@ Proyecto Cuatrimestre 5 IoT
 
 #Tabla con el hardware utilizado
 
-| ID |    Componente     |      Descripcion                    |             Imagen                 |   Cantidad  |  Costo Total  | 
+| ID |    Componente  1  |      Descripcion                  2 |             Imagen                 |   Cantidad  |  Costo Total  | 
 | ---|-------------------|-------------------------------------|------------------------------------|-------------|---------------|
-| 1  |Bocina y Microfono | Este módulo ISD1820 Módulo de       | 
-                         | Grabación y Reproducción de Voz     |                          
-                         | basado en el circuito integrado     |
-                         | ISD1820 permite la grabación y      |
+| 1  |Bocina y Microfono | Este módulo ISD1820 Módulo de     2 | 
+                         | Grabación y Reproducción de Voz   2 |                          
+                         | basado en el circuito integrado   2 |
+                         | ISD1820 permite la grabación y    2 |
                          | reproducción de un mensaje de voz de|
                          | 8 a 20 segundos de duración.        |
                          | El modulo ISD1820 permite la        |
