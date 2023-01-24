@@ -24,6 +24,8 @@ Proyecto Cuatrimestre 5 IoT
 
 #Objetivo geeral
 
+El objetivo general de este proyecto es la realización y con diferentes herramientas la identificación de voz y transcripción a texto. Con la finalidad de utilizar una IA para hacer peticiones de voz hacia esta, por lo cual consideramos es un reto interesante y el cal nos entusiasma. 
+
 #Obetivos Especificos
 
 #Tabla de Software Utilizado y otros
