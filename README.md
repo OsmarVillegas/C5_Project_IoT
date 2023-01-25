@@ -23,18 +23,18 @@ Crear una dispositivo que logre realizar ciertas tareas por medio de comandos de
 -	Leds	
 -	Extensión
 
-#Objetivo geeral
+# Objetivo general
 
 El objetivo general de este proyecto es la realización y con diferentes herramientas la identificación de voz y transcripción a texto. Con la finalidad de utilizar una IA para hacer peticiones de voz hacia esta, por lo cual consideramos es un reto interesante y el cual nos entusiasma. 
 
-#Obetivos Especificos
+# Obetivos Especificos
 
 - Identificar el reconocimiento de voz para permitir a los usuarios dictar notas y mensajes de texto. La aplicación utilizaría una API de ChatGTP-3
 - El sistema utilizaría una API de reconocimiento de voz para transcribir la voz a texto y luego utilizar una IA para interpretar la pregunta y proporcionar una      respuesta adecuada.
 - La información que responda la IA será plasmada esa información de la LCD
 - Traducir el texto que el usario desee. 
 
-#Tabla de Software Utilizado y otros
+# Tabla de Software Utilizado y otros
 
 | ID | Software | Versión |  Tipo  |
 | ---|----------|---------|--------| 
@@ -45,7 +45,7 @@ El objetivo general de este proyecto es la realización y con diferentes herrami
 | 5  |ChatGPT-3 |  3      |  IA    |
 
 
-#Tabla con el hardware utilizado}
+# Tabla con el hardware utilizado}
 | ID | Componente | Descripción | Imagen | Cantidad | Costo total  |
 |----|------------|-------------|--------|----------|--------------|
 |  1 |     ESP32  |El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos       |    ![image](https://user-images.githubusercontent.com/114530252/214478669-80e0ca57-6980-4700-8018-2760aaa64181.png) |   1  |     $280      |
