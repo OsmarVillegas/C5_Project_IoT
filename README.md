@@ -2,7 +2,7 @@
 Proyecto Cuatrimestre 5 IoT
 
 # Objetivo
-
+Crear una dispositivo que kjdasbasjfibas
 
 # Integrantes
 - Osmar Israel Villegas Martínez
@@ -11,7 +11,7 @@ Proyecto Cuatrimestre 5 IoT
 - Omar Martín Gonzalez Hernandez
 
 # Historia de usuario
-
+Como usuario quiero poder tener un 
 
 
 # Materiales
@@ -44,4 +44,16 @@ El objetivo general de este proyecto es la realización y con diferentes herrami
 | 5  |ChatGPT-3 |  3      |  IA    |
 
 
-#Tabla con el hardware utilizado
+#Tabla con el hardware utilizado}
+| ID | Componente | Descripción | Imagen | Cantidad | Costo total  |
+|----|------------|-------------|--------|----------|--------------|
+|  1 |     ESP32  |El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos       |        |          |              |
+|
+|
+|
+|
+|
+|
+|
+||
+
