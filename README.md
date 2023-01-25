@@ -57,3 +57,6 @@ El objetivo general de este proyecto es la realización y con diferentes herrami
 |7|  Modulo Mp3 | El Módulo reproductor MP3 Arduino es un mini reproductor mp3 muy económico utilizado para reproducir estos formatos de audio en Arduino con una salida directa hacia un speaker |  ![image](https://user-images.githubusercontent.com/114530252/214484671-a196ef62-c279-43dd-8248-ff4dc3dff09d.png)| 1  | $72 |
 |8 | INMP441 Módulo de Micrófono | El INMP441 es un micrófono omnidireccional con salida digital I2S, el Chip incorpora un sensor MEMS, circuito de acondicionamiento, ADC, filtros y una interfaz I2S. de esta manera se puede conectar directamente a otros dispositivos que soporten I2C sin necesidad de un códec de audio. | ![image](https://user-images.githubusercontent.com/114530252/214485123-9ab8c481-e099-4f30-8d08-12883e1022c7.png) | 1 | $54.14 |
 | 9 |Buzzer| es un pequeño transductor capaz de convertir la energía eléctrica en sonido. Para hacerlos funcionar solo basta conectar el positivo con el + y la tierra o negativo con el – de una batería o cualquier fuente de corriente directa|![image](https://user-images.githubusercontent.com/114530252/214485442-7cbbc188-f39a-495d-a6a3-8a8e7d0edbe2.png) | 1 | $50 |  
+
+# Boceto
+![image](https://user-images.githubusercontent.com/114530252/214487367-8af4e1f9-d06c-48fc-af61-58fbc8c36c2c.png)
